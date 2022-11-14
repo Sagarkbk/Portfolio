@@ -1,0 +1,60 @@
+*{
+ margin: 0;
+ padding: 0;
+ font-family:cursive;
+ /* background: grey; */
+}
+body {
+ background-image: url("./purple.jpg");
+ background-size: 100%;
+ text-align: center;
+}
+.one{
+ position: relative;
+ width: 100%;
+ height: 100vh;
+}
+nav{
+ display: flex;
+ width: 84%;
+ margin: auto;
+ padding: 20px 0;
+ align-items: center;
+ justify-content: space-between;
+}
+nav ul li{
+ display: inline-block;
+ list-style: none;
+ margin: 10px 20px;
+}
+nav ul li a{
+ text-decoration: none;
+ color: black;
+ font-weight: bold;
+ font-size: larger;
+}
+nav ul li a:hover{
+ color: blue;
+}
+/* .two{
+ margin-left: 6%;
+ margin-top: 15%;
+ font-size: 30px;
+ color: crimson;
+} */
+.c1{
+ margin-left: 6%;
+ margin-top: 15%;
+ font-size: 30px;
+ color: crimson;
+}
+.c2{
+ font-size: 30px;
+ color: wheat;
+}
+span{
+ color: darkblue;
+}
+.c3{
+ color: brown;
+}
