@@ -5,6 +5,8 @@ import javascript from "../assets/javascript.png";
 import react from "../assets/react.png";
 import node from "../assets/node.png";
 import tailwind from "../assets/tailwind.png";
+import python from "../assets/python.png";
+import postgresql from "../assets/postgresql.png";
 import github from "../assets/github.png";
 
 const Skills = () => {
@@ -47,6 +49,18 @@ const Skills = () => {
     },
     {
       id: 7,
+      image: python,
+      title: "Python",
+      style: "shadow-yellow-400",
+    },
+    {
+      id: 8,
+      image: postgresql,
+      title: "PostgreSQL",
+      style: "shadow-blue-400",
+    },
+    {
+      id: 9,
       image: github,
       title: "GitHub",
       style: "shadow-gray-400",
