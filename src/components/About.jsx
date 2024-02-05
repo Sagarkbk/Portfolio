@@ -12,23 +12,14 @@ const About = () => {
             About
           </p>
         </div>
-        <p className="text-xl mt-20">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore
-          magnam tempore at, dignissimos facilis eligendi voluptatibus iure
-          aliquid saepe dolorem veniam, officia delectus earum ipsam impedit ad
-          beatae asperiores fugiat eum modi vel! Quaerat quasi repellat,
-          architecto quisquam quam mollitia optio voluptatum tempora eius fuga
-          officiis iusto doloribus veritatis quis?
+        <p className="text-xl">
+          I'm an Aspiring Full Stact Developer with proficiency in React, Node
+          JS, Express JS, PostgreSQL, MongoDB and Tailwind CSS. I love working
+          on projects. I'm always in the process of upgrading myself. I love
+          learning new tech stacks.
         </p>
         <br />
-        <p className="text-xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident,
-          vero minima. Dolores doloribus, tempora reiciendis voluptatem facere,
-          est iste fuga a quasi nostrum error nulla eveniet eum nam veniam.
-          Deserunt consequuntur rerum excepturi consequatur fugiat quis nihil
-          laudantium doloremque facilis hic perferendis enim earum incidunt
-          possimus, fuga animi, velit harum?
-        </p>
+        <p className="text-xl">I love BackEnd more than FrontEnd</p>
       </div>
     </div>
   );

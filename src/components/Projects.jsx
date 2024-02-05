@@ -21,7 +21,7 @@ const Projects = () => {
       id: 3,
       image: TodoApp,
       live: "https://kbksagar.pythonanywhere.com/sign-up",
-      code: "",
+      code: "https://kbksagar.pythonanywhere.com/sign-up",
     },
   ];
 
